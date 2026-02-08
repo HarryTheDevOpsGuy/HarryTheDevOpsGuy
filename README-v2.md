@@ -1,78 +1,103 @@
 <div align="center">
+  <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="DevOps Landscape" width="100%" height="250px">
+</div>
 
-☁️ Harry | DevOps & Infrastructure Engineer
-
-Architecting Scalable Systems & Automating the World
-
+<h1 align="center">Hello Fellow < Developers/ >! 👋</h1>
 <p align="center">
-<a href="https://harrythedevopsguy.medium.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" /></a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="[suspicious link removed]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E00%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=HarryTheDevOpsGuy.HarryTheDevOpsGuy" alt="visitors">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Senior+DevOps+Engineer;Cloud+Automation+Specialist;Building+Tools+That+Scale" alt="Typing SVG" />
+  </a>
 </p>
 
-👨‍💻 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="55%" align="right" alt="DevOps Workflow">
+</div>
 
-I am a passionate DevOps Engineer dedicated to bridging the gap between development and operations. My focus is on creating resilient, automated infrastructure and optimizing deployment lifecycles.
+### 🌟 About Me
+> *"Automating the mundane so humans can solve extraordinary problems"*
 
-🔭 Focus: Currently scaling mSend, mCert, and mWatcher.
+- 🔭 **Currently building**:  
+  `mSend` (Secure comms) | `mCert` (SSL automation) | `mWatcher` (Infra monitoring) | `JobGenie` (Jenkins config guardian)
+- 🌱 **Deepening expertise**: Kubernetes operators, Python for infra-as-code, Terraform modules
+- 💼 **Actively seeking**: Senior DevOps/Cloud roles in **Delhi NCR** (Open to hybrid/remote)
+- 🤝 **Collaboration focus**: `mWeb24x7` (Uptime monitoring suite), `mWatcher` enhancements
+- 💬 **Let's discuss**: AWS cost optimization | Safe ASG patching | Jenkins pipeline security | CI/CD anti-patterns
+- 📫 **Reach me**: [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | [Portfolio](https://harrythedevopsguy.github.io)
 
-🚀 Mission: Building mWeb24x7 to redefine uptime monitoring.
+---
 
-🎓 Learning: Deep diving into Cloud Native Security and Service Meshes (Istio).
+### 🛠️ Core Competencies
+*(Hover for context)*
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Cloud**      | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform) |
+| **CI/CD**      | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes) |
+| **Scripting**  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA2F?logo=gnu-bash) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apache) |
+| **OS/Tools**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx) |
 
-⚡ Fun Fact: I believe everything that is done twice should be automated once.
+> 💡 *Specialized in creating **self-healing pipelines** and **zero-downtime deployment frameworks** for 100+ ASG environments*
 
-🛠️ The DevOps Toolbelt
+---
 
-Cloud & Core
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[JobGenie](https://github.com/search?q=user%3AHarryTheDevOpsGuy+jobgenie)** | Prevents Jenkins config drift with automated sync + dry-run validation | Groovy, Jenkins DSL, Git |
+| **[ASG Patching Framework](https://github.com/search?q=user%3AHarryTheDevOpsGuy+asg)** | Safe instance patching with health checks, batch control & rollback | AWS SDK, Bash, CloudWatch |
+| **[mCert](https://github.com/search?q=user%3AHarryTheDevOpsGuy+mcert)** | Automated SSL certificate lifecycle management | Python, AWS ACM, Lambda |
+| **[BG Deployer](https://github.com/search?q=user%3AHarryTheDevOpsGuy+bg+deployer)** | Blue/green deployment orchestrator for critical services | Terraform, ALB, Route53 |
 
-Automation & CI/CD
+> 🔒 *All tools designed with **security-first principles** and **minimal external dependencies***
 
-Containers & Monitoring
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-%2523FF9900.svg%3Fstyle%3Dflat%26logo%3Damazon-aws%26logoColor%3Dwhite" />
+### 📊 GitHub Analytics
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarryTheDevOpsGuy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTheDevOpsGuy&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  
+  <!-- Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=HarryTheDevOpsGuy&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+  
+  <!-- Activity Graph -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryTheDevOpsGuy&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ansible-%2523EE0000.svg%3Fstyle%3Dflat%26logo%3Dansible%26logoColor%3Dwhite" />
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat%26logo%3Ddocker%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat%26logo%3Dlinux%26logoColor%3Dblack" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-7B42BC%3Fstyle%3Dflat%26logo%3Dterraform%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dflat%26logo%3Dkubernetes%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jenkins-D24939%3Fstyle%3Dflat%26logo%3Djenkins%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prometheus-E6522C%3Fstyle%3Dflat%26logo%3Dprometheus%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dflat%26logo%3Dgnu-bash%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dflat%26logo%3Dgithub-actions%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Grafana-F46800%3Fstyle%3Dflat%26logo%3Dgrafana%26logoColor%3Dwhite" />
-
-📊 Engineering Metrics
-
+### 🌐 Connect & Collaborate
 <p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHarryTheDevOpsGuy%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHarryTheDevOpsGuy%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+  <a href="https://www.linkedin.com/in/harrythedevopsguy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://harrythedevopsguy.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://harrythedevopsguy.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:HarrytheDevOpsGuy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="center">
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3DHarryTheDevOpsGuy%26theme%3Dtokyonight%26layout%3Dcompact%26hide_border%3Dtrue" />
-</p>
-
-⚙️ Current Infrastructure Pipeline (GitHub Activity)
-
-🐧 Terminal Humor
-
-<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Dtokyonight%26hideBorder" width="400" />
-
-<br />
-
-<sub>“Root is not just a user, it’s a lifestyle.”</sub>
-
+<div align="center">
+  
+  ### 😄 DevOps Wisdom of the Day
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Programming Joke">
+  
+  <br><br>
+  <i>crafted with ❤️ and</i> 
+  <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" height="18"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="18"> 
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" height="18">
+  
+  <br><br>
+  <sub>✅ All tools battle-tested in production | ✅ Documentation-first philosophy | ✅ Open to consulting opportunities</sub>
 </div>
