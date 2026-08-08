@@ -233,18 +233,37 @@
 
 ---
 
-## 🎓 Certifications & Learning
+## 🛠️ Developer Tools & Utilities
 
 <div align="center">
-
-| Certification | Status |
-|--------------|--------|
-| AWS Certified Solutions Architect | ✅ Certified |
-| Certified Kubernetes Administrator (CKA) | ✅ Certified |
-| HashiCorp Certified: Terraform Associate | ✅ Certified |
-| Microsoft Azure Solutions Architect | 🔄 In Progress |
-| Google Cloud Professional DevOps Engineer | 📋 Planned |
-
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/ansible-vault" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/vault.png" alt="Ansible Vault" width="64"/><br/>
+<strong>🔐 Ansible Vault Helper</strong><br/>
+<em>Encrypt & manage secrets effortlessly</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/mCloudTTS-Pro" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/text-to-speech.png" alt="mCloudTTS Pro" width="64"/><br/>
+<strong>🎙️ mCloudTTS Pro</strong><br/>
+<em>Professional text-to-speech converter</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/eks-pod-cost-calculator" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/calculator.png" alt="EKS Cost Calculator" width="64"/><br/>
+<strong>💰 EKS Pod Cost Calculator</strong><br/>
+<em>Optimize Kubernetes spending instantly</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
