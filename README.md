@@ -1,60 +1,303 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+  <img width="100%" height="400px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="Cover Banner" />
+  
+  # 👋 Hello, I'm Hari Prasad
+  
+  ### 🚀 Senior DevOps Lead & Cloud Solutions Architect
+  
+  <img src="https://img.shields.io/badge/📍-Delhi, India-blue?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/🗣️-Pronouns:%20He/Him-green?style=for-the-badge" alt="Pronouns" />
+  <img src="https://img.shields.io/badge/⏳-13+%20Years%20Experience-orange?style=for-the-badge" alt="Experience" />
+  
+  <p align="center">
+    <em>Transforming complex infrastructure challenges into elegant, automated solutions</em>
+  </p>
+  
+  [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://harrythedevopsguy.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hari-prasad-verma-19b948154)
+  [![Medium](https://img.shields.io/badge/📝-Medium-black?style=flat-square&logo=medium)](https://harrythedevopsguy.medium.com/)
+  [![Email](https://img.shields.io/badge/📧-Email-D14836?style=flat-square&logo=gmail)](mailto:HarrytheDevOpsGuy@gmail.com)
+  [![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HarryDevOpsGuy)
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HarryTheDevOpsGuy.HarryTheDevOpsGuy)
+## 🎯 Professional Journey
 
-</p>
-<div size='20px'> Hi! My name is Harry The DevOps Guy. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center">
+
+| 📊 **Experience** | 🎓 **Expertise** | 🏆 **Specialization** |
+|------------------|-----------------|---------------------|
+| **13+ Years** in IT & DevOps | **Cloud Architecture** | **Multi-Cloud Solutions** |
+| **8+ Years** Leading Teams | **Automation & CI/CD** | **Infrastructure as Code** |
+| **50+** Projects Delivered | **Kubernetes & Containers** | **Cost Optimization** |
+
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 💡 What I Do
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud" width="64"/><br/>
+<strong>☁️ Cloud Strategy</strong><br/>
+<em>AWS • Azure • GCP</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/devops.png" alt="DevOps" width="64"/><br/>
+<strong>🔄 CI/CD Pipelines</strong><br/>
+<em>Jenkins • GitLab • GitHub Actions</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Kubernetes" width="64"/><br/>
+<strong>🐳 Container Orchestration</strong><br/>
+<em>K8s • Docker • EKS • Helm</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/terraform.png" alt="Terraform" width="64"/><br/>
+<strong>🏗️ Infrastructure as Code</strong><br/>
+<em>Terraform • Ansible • CloudFormation</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/dashboard.png" alt="Monitoring" width="64"/><br/>
+<strong>📈 Monitoring & Observability</strong><br/>
+<em>Prometheus • Grafana • ELK Stack</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/security-checked.png" alt="Security" width="64"/><br/>
+<strong>🔒 DevSecOps</strong><br/>
+<em>Security • Compliance • Best Practices</em>
+</td>
+</tr>
+</table>
+</div>
 
-- 🔭 I’m currently working on mSend, mCert, mWatcher, mLog, mWeb24x7,etc
+---
 
-- 🌱 I’m currently learning Kubernets, Python, Groovy, etc 
+## 🛠️ Technical Arsenal
 
-- 👯 I’m looking to collaborate on mWeb24x7,mWatcher 
+### ☁️ Cloud Platforms
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</div>
 
-- 💬 Talk to me about Linux, AWS, Ansible, Terraform, Docker, Jenkins, Shell Scripting 
+### 🐳 Container & Orchestration
+<div align="center">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=0db7ed" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="EKS" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+</div>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/HarryTheDevOpsGuy?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+### 🔧 IaC & Automation
+<div align="center">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</div>
 
+### 📊 Monitoring Stack
+<div align="center">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" alt="ELK" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+</div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://harrythedevopsguy.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://harrythedevopsguy.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/HarryTheDevOpsGuy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+### 💻 Programming & Scripting
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Groovy-4298B4?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Groovy" />
+</div>
 
+### 🎯 Core Competencies
+<div align="center">
+<img src="https://img.shields.io/badge/☁️-Cloud_Migration-FF9900?style=for-the-badge" alt="Cloud Migration" />
+<img src="https://img.shields.io/badge/🔄-GitOps-542589?style=for-the-badge" alt="GitOps" />
+<img src="https://img.shields.io/badge/🚀-CI/CD-005571?style=for-the-badge" alt="CI/CD" />
+<img src="https://img.shields.io/badge/🏗️-IaC-7B42BC?style=for-the-badge" alt="IaC" />
+<img src="https://img.shields.io/badge/💰-Cost_Optimization-2E7D32?style=for-the-badge" alt="Cost Optimization" />
+<img src="https://img.shields.io/badge/🔐-DevSecOps-D32F2F?style=for-the-badge" alt="DevSecOps" />
+</div>
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+---
+
+## 📊 By The Numbers
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 🎯 Projects Delivered | **50+** |
+| ☁️ Cloud Environments Managed | **100+** |
+| 🔄 CI/CD Pipelines Built | **200+** |
+| 🐳 Kubernetes Clusters Deployed | **30+** |
+| 💻 Lines of Code (IaC) | **50K+** |
+| 🎓 Mentees Guided | **25+** |
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>📨 mSend</h3>
+<p><em>Automated notification & messaging service</em></p>
+<img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
+</td>
+<td align="center" width="50%">
+<h3>🔐 mCert</h3>
+<p><em>SSL/TLS certificate management platform</em></p>
+<img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>👁️ mWatcher</h3>
+<p><em>Infrastructure health monitoring solution</em></p>
+<img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
+</td>
+<td align="center" width="50%">
+<h3>📝 mLog</h3>
+<p><em>Centralized logging & analysis platform</em></p>
+<img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" colspan="2">
+<h3>🌐 mWeb24x7</h3>
+<p><em>Website uptime monitoring & alerting system</em></p>
+<img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=HarryTheDevOpsGuy&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryTheDevOpsGuy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTheDevOpsGuy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ⏱️ Weekly Development Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarryTheDevOpsGuy&theme=radical&layout=compact&hide_border=true" alt="Wakatime Stats" />
+</div>
+
+---
+
+## 🏅 Achievements & Recognition
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HarryTheDevOpsGuy&theme=radical&row=1&column=7&hide_border=true" alt="GitHub Trophies" />
+<br/><br/>
+<img src="https://metrics.lecoq.io/HarryTheDevOpsGuy?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata&hide_border=true" alt="GitHub Metrics" />
+</div>
+
+---
+
+## 🛠️ Developer Tools & Utilities
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/ansible-vault" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/vault.png" alt="Ansible Vault" width="64"/><br/>
+<strong>🔐 Ansible Vault Helper</strong><br/>
+<em>Encrypt & manage secrets effortlessly</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
 </a>
-<br>
+</td>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/mCloudTTS-Pro" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/text-to-speech.png" alt="mCloudTTS Pro" width="64"/><br/>
+<strong>🎙️ mCloudTTS Pro</strong><br/>
+<em>Professional text-to-speech converter</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://harrythedevopsguy.github.io/tools/eks-pod-cost-calculator" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/96/000000/calculator.png" alt="EKS Cost Calculator" width="64"/><br/>
+<strong>💰 EKS Pod Cost Calculator</strong><br/>
+<em>Optimize Kubernetes spending instantly</em><br/>
+<img src="https://img.shields.io/badge/🔗-View_Tool-blue?style=flat-square" alt="View Tool" />
+</a>
+</td>
+</tr>
+</table>
+</div>
 
+---
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+## 😄 DevOps Humor Break
 
-![Metrics](https://metrics.lecoq.io/HarryTheDevOpsGuy?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Programming Jokes" />
+</div>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+## 🤝 Let's Connect
 
-<!--
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
--->
+<div align="center">
+
+### Interested in collaboration or discussing DevOps, Cloud Architecture, or Automation?
+
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harrythedevopsguy.github.io/)
+[![LinkedIn](https://img.shields.io/badge/💼-Connect_on_Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-prasad-verma-19b948154)
+[![Medium](https://img.shields.io/badge/📝-Read_My_Blogs-black?style=for-the-badge&logo=medium&logoColor=white)](https://harrythedevopsguy.medium.com/)
+[![Email](https://img.shields.io/badge/📧-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarrytheDevOpsGuy@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HarryDevOpsGuy)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with ❤️ and lots of ☕ by **Hari Prasad**</sub>
+
+<sub>© 2024 Hari Prasad. All rights reserved.</sub>
+
+[🔝 Back to Top](#hello-im-hari-prasad)
+
+</div>
