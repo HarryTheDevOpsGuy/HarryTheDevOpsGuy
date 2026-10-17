@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="400px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="Cover Banner" />
+  <img width="100%" height="400px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="Cover Banner - Mountain Landscape" />
   
   # 👋 Hello, I'm Hari Prasad
   
@@ -17,8 +17,21 @@
   [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hari-prasad-verma-19b948154)
   [![Medium](https://img.shields.io/badge/📝-Medium-black?style=flat-square&logo=medium)](https://harrythedevopsguy.medium.com/)
   [![Email](https://img.shields.io/badge/📧-Email-D14836?style=flat-square&logo=gmail)](mailto:HarrytheDevOpsGuy@gmail.com)
-  [![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HarryDevOpsGuy)
+  [![X](https://img.shields.io/badge/𝕏-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HarryDevOpsGuy)
 </div>
+
+---
+
+## 📌 Table of Contents
+
+- [🎯 Professional Journey](#-professional-journey)
+- [💡 What I Do](#-what-i-do)
+- [🛠️ Technical Arsenal](#️-technical-arsenal)
+- [📊 By The Numbers](#-by-the-numbers)
+- [🏆 Featured Projects](#-featured-projects)
+- [🛠️ Developer Tools & Utilities](#️-developer-tools--utilities)
+- [📈 GitHub Statistics](#-github-statistics)
+- [🤝 Let's Connect](#-lets-connect)
 
 ---
 
@@ -155,17 +168,21 @@
 
 ## 🏆 Featured Projects
 
+> 💡 **Note:** These tools are part of my open DevOps suite. Live demos and full documentation are available at [harrythedevopsguy.github.io](https://harrythedevopsguy.github.io/).
+
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 <h3>📨 mSend</h3>
 <p><em>Automated notification & messaging service</em></p>
+<a href="https://harrythedevopsguy.github.io/tools/msend"><img src="https://img.shields.io/badge/🔗-Live_Tool-blue?style=flat-square" alt="Live Tool" /></a>
 <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
 </td>
 <td align="center" width="50%">
 <h3>🔐 mCert</h3>
 <p><em>SSL/TLS certificate management platform</em></p>
+<a href="https://harrythedevopsguy.github.io/tools/mcert"><img src="https://img.shields.io/badge/🔗-Live_Tool-blue?style=flat-square" alt="Live Tool" /></a>
 <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
 </td>
 </tr>
@@ -173,11 +190,13 @@
 <td align="center" width="50%">
 <h3>👁️ mWatcher</h3>
 <p><em>Infrastructure health monitoring solution</em></p>
+<a href="https://harrythedevopsguy.github.io/tools/mwatcher"><img src="https://img.shields.io/badge/🔗-Live_Tool-blue?style=flat-square" alt="Live Tool" /></a>
 <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
 </td>
 <td align="center" width="50%">
 <h3>📝 mLog</h3>
 <p><em>Centralized logging & analysis platform</em></p>
+<a href="https://harrythedevopsguy.github.io/tools/mlog"><img src="https://img.shields.io/badge/🔗-Live_Tool-blue?style=flat-square" alt="Live Tool" /></a>
 <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
 </td>
 </tr>
@@ -185,6 +204,7 @@
 <td align="center" width="50%" colspan="2">
 <h3>🌐 mWeb24x7</h3>
 <p><em>Website uptime monitoring & alerting system</em></p>
+<a href="https://harrythedevopsguy.github.io/tools/mweb24x7"><img src="https://img.shields.io/badge/🔗-Live_Tool-blue?style=flat-square" alt="Live Tool" /></a>
 <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status" />
 </td>
 </tr>
@@ -286,7 +306,7 @@
 [![LinkedIn](https://img.shields.io/badge/💼-Connect_on_Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-prasad-verma-19b948154)
 [![Medium](https://img.shields.io/badge/📝-Read_My_Blogs-black?style=for-the-badge&logo=medium&logoColor=white)](https://harrythedevopsguy.medium.com/)
 [![Email](https://img.shields.io/badge/📧-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HarrytheDevOpsGuy@gmail.com)
-[![Twitter](https://img.shields.io/badge/🐦-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HarryDevOpsGuy)
+[![X](https://img.shields.io/badge/𝕏-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HarryDevOpsGuy)
 
 </div>
 
@@ -296,7 +316,7 @@
 
 <sub>Made with ❤️ and lots of ☕ by **Hari Prasad**</sub>
 
-<sub>© 2024 Hari Prasad. All rights reserved.</sub>
+<sub>© 2024 – 2026 Hari Prasad. All rights reserved.</sub>
 
 [🔝 Back to Top](#hello-im-hari-prasad)
 
