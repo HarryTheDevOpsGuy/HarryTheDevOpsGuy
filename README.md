@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="400px" src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1600&q=80" alt="Cover Banner - Cloud and DevOps Infrastructure" />
+  <img width="100%" height="400px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="Cover Banner - Mountain Landscape" />
   
   # 👋 Hello, I'm Hari Prasad
   
